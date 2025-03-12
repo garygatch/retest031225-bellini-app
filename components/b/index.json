@@ -1,0 +1,46 @@
+{
+  "type": "custom-component",
+  "name": "b",
+  "children": [
+    {
+      "name": "Checkbox",
+      "nodeName": "bln-checkbox",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "KV8OtG"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": [],
+      "formControl": {
+        "modelName": "checked"
+      }
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}
